@@ -1,0 +1,9 @@
+realizar un programa que muestre del 1 al 10 usando while.
+
+realizar un programa que muestre los numeros del 1 al 10, usando do--while.
+
+realizar nn programa que sume los numero del 1 al 100, usando while
+
+realizar un programa que sume los numeros del 1 al 100, usando do--while
+
+realizar que muestre las tablas de multiplicar del 1 al 10, usando while o do-while.
